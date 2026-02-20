@@ -34,8 +34,6 @@ My main focus is **Web Development**, especially building modern, scalable and c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" />
 </div>
 
----
-
 <!--
 **simondevx/simondevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
